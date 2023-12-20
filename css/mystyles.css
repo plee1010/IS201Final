@@ -1,0 +1,15 @@
+h1 {
+    font-family: unset;
+}
+
+.dif-bg {
+    background-color: rgb(170, 214, 170) !important;
+}
+
+.dif-mainbg {
+    background-color: blanchedalmond !important;
+}
+
+a {
+    color: rgb(170, 214, 170);
+}
